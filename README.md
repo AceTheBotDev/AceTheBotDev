@@ -5,9 +5,7 @@
 - You can contact me by email (acethebotdeveloper@gmail.com), or find me on Discord (Demon Under Your Bed#3987)
 
 ## My current projects.
-- AceBot (Halted as of 2/11/21)
-- AceBot.py (In planning.)
-- Tutorial Bot.py (In planning.)
+
 
 ## Experiance 
 Coding Languge | Time of Experiance
