@@ -6,7 +6,7 @@
 
 ## My current projects.
 - [x] Format - Project Name - Project Languge - Libary - Libary
-- [ ] Hunter - Javascript - discord.js
+- [ ] Aramaya - Javascript - discord.js
 
 
 ## Experience 
