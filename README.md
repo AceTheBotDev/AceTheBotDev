@@ -12,7 +12,7 @@
 ## Experience 
 Coding Languge | Time of Experience
 ---------------|-------------------
-Javascript | 4 years
+Javascript | 5 years
 Python | 4 years
 Lua | 2 years
 Ruby | 1 month
